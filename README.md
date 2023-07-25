@@ -10,7 +10,7 @@
 - 😄 Pronouns: He - Him - His
 - ⚡ Fun fact: I'm working towards a PPL (Private Pilots License)
   
-- 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karnikkunal/) 
+- 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karnikkunal/) 
 
 # 📊 GitHub Stats: [![](https://visitcount.itsvg.in/api?id=KunalKarnik&icon=5&color=0)](https://visitcount.itsvg.in)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KunalKarnik&theme=onedark&hide_border=false)<br/>
