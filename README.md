@@ -8,7 +8,7 @@
 - 🤔 I’m looking for new contract job opportunities as a Cloud Engineer
 - 💬 Ask me about Data Platforms, Aviation, Sports, DIY Projects, ...
 - 😄 Pronouns: He - Him - His
-- ⚡ Fun fact: I'm working toeards a PPL (Private Pilots License)
+- ⚡ Fun fact: I'm working towards a PPL (Private Pilots License)
   
 - 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karnikkunal/) 
 
